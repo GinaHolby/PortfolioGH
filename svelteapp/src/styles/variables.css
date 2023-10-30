@@ -1,0 +1,29 @@
+:root {
+  --basefont: 'Montserrat', sans-serif;
+  --maxwidth: 1240px;
+
+  --lightgrey: rgb(211, 211, 211);
+  --backgroundcolor: rgb(255, 255, 255);
+  --secondarycolor: rgb(239, 229, 229);
+  --secondarycolormild: rgb(246, 241, 241);
+
+  --ratingColor: rgb(255, 180, 0);
+  --ratingColorBck: rgb(210, 210, 210);
+
+  --cardBackground: rgb(252, 253, 253);
+  --cardShadow: 1px 5px 5px rgb(181, 181, 181);
+  --cardRadius: 2px;
+
+  --textSubhero: clamp(1.5rem , 2vw, 2rem);
+
+  --mediumtext: clamp(1rem , 2vw, 1.5rem);
+
+  --linecolorlight: solid 1px rgb(211, 211, 211);
+  --linecolorsuperlight: solid 0.5px rgb(240, 217, 217);
+
+  --recipieGap: clamp(8px , 2vw , 2rem);
+  --recipieGapM: clamp(16px , 4vw , 3rem);
+  --cardgap: 1rem;
+
+ 
+}

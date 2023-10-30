@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.testbox{
+  background-color: pink;
+}
+
+.tline{
+  outline: solid red 3px;
+}

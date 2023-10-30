@@ -1,0 +1,77 @@
+h1{
+  font-family: var(--basefont);
+  font-size: clamp(1.3rem, 3.5vw, 2rem);
+  font-weight: 300;
+}
+
+h2{
+  font-family: var(--basefont);
+  font-weight: 200;
+  font-size: clamp(1.2rem, 1.5vw, 1.6rem);
+}
+
+h3{
+  font-family: var(--basefont);
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
+  font-weight: 300;
+}
+
+h4{
+  font-family: var(--basefont);
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+h5{
+  font-family: var(--basefont);
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+h6{
+  font-family: var(--basefont);
+  font-size: x-small;
+  font-weight: 200;
+}
+p{
+  font-family: var(--basefont);
+  font-size: 1rem;
+  font-weight: 200;
+}
+b{
+  font-family: var(--basefont);
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+span{
+  font-family: var(--basefont);
+  font-weight: 600;
+}
+
+li{
+  font-family: var(--basefont);
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+} 
+
+button{
+  font-family: var(--basefont);
+}
+
